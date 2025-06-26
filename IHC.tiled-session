@@ -1,0 +1,210 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Finance/finance-conference.json",
+    "expandedProjectPaths": [
+        ".",
+        "Finance"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#finance-activityroom": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/jov/ihc-sand/ihc-mall/main-arcade.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1453,
+                "y": 954
+            }
+        },
+        "C:/Users/DELL/Desktop/jov/ihc-sand/ihc-mall/main-arcade.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/DELL/Desktop/jov/ihc-sand/ihc-mall/main-arcade.json#main-arcade": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/jov/showtable/lobby.json": {
+            "scale": 0.4290322580645161,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1424.1353383458647,
+                "y": 783.1578947368423
+            }
+        },
+        "C:/Users/DELL/Desktop/jov/showtable/lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/DELL/Desktop/jov/showtable/lobby.json#lobby": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-activity-room.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1202,
+                "y": 984
+            }
+        },
+        "Finance/finance-activity-room.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-activity-room.json#finance-activityroom": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-conference.json": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1659.090909090909,
+                "y": 1275.7575757575758
+            }
+        },
+        "Finance/finance-conference.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-conference.json#finance-lecture hall": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1319.6969696969697,
+                "y": 1048.4848484848485
+            }
+        },
+        "Finance/finance-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-lobby.json#finance-lobby": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-manager.json": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1714,
+                "y": 980
+            }
+        },
+        "Finance/finance-manager.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-manager.json#finance-manager": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-meeting.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2156.060606060606,
+                "y": 790.9090909090909
+            }
+        },
+        "Finance/finance-meeting.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-meeting.json#finance-meeting": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-office1.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1654,
+                "y": 476
+            }
+        },
+        "Finance/finance-office1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Finance/finance-office1.json#finance-office1": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-office2.json": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1234,
+                "y": 520
+            }
+        },
+        "Finance/finance-office2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "Finance/finance-office2.json#finance-office2": {
+            "scaleInDock": 1
+        },
+        "IHCPark.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1448.4848484848483,
+                "y": 442.4242424242424
+            }
+        },
+        "IHCPark.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "IHCPark.json#IHC Park": {
+            "scaleInDock": 1
+        },
+        "ihchub.json": {
+            "scale": 0.25,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 2030,
+                "y": 328
+            }
+        },
+        "ihchub.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihchub.json#IHC Park": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/DELL/Desktop/IHC/Finance",
+    "map.height": 48,
+    "map.lastUsedFormat": "json",
+    "map.width": 96,
+    "openFiles": [
+        "Finance/finance-conference.json",
+        "Finance/finance-lobby.json"
+    ],
+    "project": "IHC.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Finance/finance-lobby.json",
+        "Finance/finance-conference.json",
+        "Finance/finance-meeting.json",
+        "Finance/finance-manager.json",
+        "Finance/finance-office2.json",
+        "Finance/finance-office1.json",
+        "Finance/finance-activity-room.json",
+        "ihchub.json",
+        "C:/Users/DELL/Desktop/jov/ihc-sand/ihc-mall/main-arcade.json",
+        "IHCPark.json",
+        "C:/Users/DELL/Desktop/jov/showtable/lobby.json"
+    ],
+    "tileset.embedInMap": true
+}
