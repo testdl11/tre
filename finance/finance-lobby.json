@@ -179,7 +179,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihchub.json#start-from-finance-lobby"
+                 "value":"..\/ihchub.json#start-from-finance-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -563,7 +563,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":48,
          "id":17,
-         "name":"start-from-finance-activity-room",
+         "name":"start-from-activity-room",
          "opacity":1,
          "properties":[
                 {
@@ -628,13 +628,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":48,
          "id":8,
-         "name":"exit-to-finance-activity-room",
+         "name":"exit-to-activity-room",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"finance-activity-room.json#start-from-finance-lobby"
+                 "value":"activity-room.json#start-from-finance-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
