@@ -829,7 +829,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"finance/finance-lobby.json#start_from_ihchub"
+                 "value":"./finance/finance-lobby.json#start_from_ihchub"
                 }],
          "type":"tilelayer",
          "visible":true,
