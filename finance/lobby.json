@@ -1024,7 +1024,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"meeting-room.json#start-from-finance-lobby"
+                 "value":"meeting-room.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
