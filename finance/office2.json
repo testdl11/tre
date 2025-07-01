@@ -120,7 +120,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"finance-lobby.json#start-from-finance-office2"
+                 "value":"lobby.json#start-from-office2"
                 }],
          "type":"tilelayer",
          "visible":true,
